@@ -24,7 +24,7 @@ title: Introduction
   </style>
 </head>
 
-Encoding the Vandegrifter: A A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories
+Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories
 
 
 
