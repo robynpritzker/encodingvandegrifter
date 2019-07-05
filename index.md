@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Introduction
+layout: default
+title: Encoding the Vandegrifter
 ---
 
 <head>
