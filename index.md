@@ -36,10 +36,13 @@ Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s
     <div class="overlay">
       <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">Manuscript Images</span></a>
     </div>
+    <div class="overlay">
+      <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">About the Project</span></a>
+    </div>
   </div>
 </div>
 <hr />
-<p>This site will display a list of shortstories and their associated images.</p>
+<p>Recovering four Gothic fairy tale manuscripts from Fanny Van de Grift Stevenson, an underacknowledged late nineteenth century American writer.</p>
 
  
 <span data-balloon="I'm a tooltip." data-balloon-pos="up">Robyn Pritzker, 2019. Centre for Data, Culture, and Society. University of Edinburgh.</span>
