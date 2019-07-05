@@ -37,7 +37,7 @@ Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s
       <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">Manuscript Images</span></a>
     </div>
     <div class="overlay">
-      <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">About the Project</span></a>
+      <a href="{{ site.baseurl }}/aboutIndex.html"><span class="caption" style="display:block">About the Project</span></a>
     </div>
   </div>
 </div>
