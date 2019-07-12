@@ -14,7 +14,7 @@ title: Encoding the Vandegrifter
     }
 
     .flex-container > div {
-      width: 100%;
+      width: 200%;
       margin: 10px;
       text-align: center;
       line-height: 60px;
