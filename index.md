@@ -7,6 +7,21 @@ title: Encoding the Vandegrifter
  
 <link rel="stylesheet" href="path/to/balloon.css">
  
+ <style>
+    .flex-container {
+      display: flex;
+      justify-content: center;
+    }
+
+    .flex-container > div {
+      background-color: #ABBBFC;
+      width: 100%;
+      margin: 10px;
+      text-align: center;
+      line-height: 75px;
+      font-size: 30px;
+    }
+  </style>
   
 </head>
 
