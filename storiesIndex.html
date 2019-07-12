@@ -1,23 +1,18 @@
 
 ---
 layout: default
-title: Short Stories
 ---
 
-  {% for category in site.categories %}
-  <p>
-    <ul>
-    {% for post in category[1] %}
+title: Short Stories
+
+  
       <li>
         <p><a href="{{ site.baseurl }}/{{ post.url }}">Borriballoo</a></p>
         <p><a href="{{ site.baseurl }}/{{ post.url }}">Sheep</a></p>
         <p><a href="{{ site.baseurl }}/{{ post.url }}">Hunchback</a></p>
         <p><a href="{{ site.baseurl }}/{{ post.url }}">Ah Choon</a></p>
       </li>
-    {% endfor %}
-    </ul>
-  </p>
-{% endfor %}
+
 
 
   
