@@ -9,12 +9,12 @@ title: Short Stories
 Short Stories
 
 <ol>
-<li> _["The Grand Borriballoo"](https://robynpritzker.github.io/encodingvandegrifter/borriballoo/)_ </li>
+<li> ["The Grand Borriballoo"](https://robynpritzker.github.io/encodingvandegrifter/borriballoo/) </li>
         
-<li> _["Easy Reading for an Old Bachelor: the Story of the Ravening Sheep"](https://robynpritzker.github.io/encodingvandegrifter/sheep/)_ </li>
+<li> ["Easy Reading for an Old Bachelor: the Story of the Ravening Sheep"](https://robynpritzker.github.io/encodingvandegrifter/sheep/) </li>
         
-<li> _["The Hunchback"](https://robynpritzker.github.io/encodingvandegrifter/hunchback/)_ </li>
-<li> _["Ah Choon"](https://robynpritzker.github.io/encodingvandegrifter/ahchoon/)_ </li>
+<li> ["The Hunchback"](https://robynpritzker.github.io/encodingvandegrifter/hunchback/) </li>
+<li> ["Ah Choon"](https://robynpritzker.github.io/encodingvandegrifter/ahchoon/) </li>
 
 </ol>
 
