@@ -7,7 +7,7 @@ title: Short stories
     <ul>
     {% for post in category[1] %}
       <li>
-        <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
+        <p><a href="{{ site.baseurl }}/{{ post.url }}">The Grand Borriballoo</a></p>
       </li>
     {% endfor %}
     </ul>
