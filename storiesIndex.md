@@ -1,9 +1,15 @@
-\--- layout: default title: Short Stories --- {% for category in
-site.categories %}
-
-  - [The Grand
-    Borriballoo](%7B%7B%20site.baseurl%20%7D%7D/%7B%7B%20post.url%20%7D%7D)
-
+---
+layout: page
+title: Short stories
+---
+  {% for category in site.categories %}
+  <p>
+    <ul>
+    {% for post in category[1] %}
+      <li>
+        <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></p>
+      </li>
+    {% endfor %}
+    </ul>
+  </p>
 {% endfor %}
-
-
