@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Short stories
+title: Short Story Index
 ---
   {% for category in site.categories %}
   <p>
@@ -8,6 +8,10 @@ title: Short stories
     {% for post in category[1] %}
       <li>
         <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ Easy Reading for an Old Bachelor; the Story of the Ravening Sheep }}</a></p>
+        <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ Grand Borriballoo }}</a></p>
+        <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ The Hunchback }}</a></p>
+        <p><a href="{{ site.baseurl }}/{{ post.url }}">{{ Ah Choon }}</a></p>
+
       </li>
     {% endfor %}
     </ul>
