@@ -14,12 +14,12 @@ title: Encoding the Vandegrifter
     }
 
     .flex-container > div {
-      background-color: #ABBBFC;
+      background-color: #15214f;
       width: 100%;
       margin: 10px;
       text-align: center;
-      line-height: 75px;
-      font-size: 30px;
+      line-height: 60px;
+      font-size: 24px;
     }
   </style>
   
