@@ -1,7 +1,14 @@
 ---
+
 layout: default
-title: Short stories
+
+title: Borriballoo
+
+permalink: /stories/
+
 ---
+
+
   {% for category in site.categories %}
   <p>
     <ul>
