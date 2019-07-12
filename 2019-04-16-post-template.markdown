@@ -6,6 +6,7 @@ categories: story
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/balloon-css/0.5.0/balloon.min.css"> 
 </head>
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type"
 content="text/html; charset=utf-8" /><!--THIS FILE IS GENERATED FROM AN XML MASTER. DO NOT EDIT
 (5)--><title>Four Short Stories: A Digital Edition</title><meta name="author" content="Fanny Van de
