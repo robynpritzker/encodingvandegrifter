@@ -32,7 +32,7 @@ Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s
 <div class="introduction">
   <div class="flex-container">
     <div class="overlay">
-     <a href="{{ site.baseurl }}/storiesIndex.md"><span class="caption" style="display:block">Short Stories</span></a>
+     <a href="{{ site.baseurl }}/storiesIndex.html"><span class="caption" style="display:block">Short Stories</span></a>
     </div>
     <div class="overlay">
       <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">Manuscript Images</span></a>
