@@ -14,11 +14,11 @@ title: Encoding the Vandegrifter
     }
 
     .flex-container > div {
-      width: 200%;
+      width: 300%;
       margin: 10px;
       text-align: center;
       line-height: 60px;
-      font-size: 20px;
+      font-size: 18px;
     }
     
 
