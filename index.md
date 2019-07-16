@@ -47,10 +47,9 @@ text-align: center;
 
 <br/><br/><br/>
     
- 
-<h2>Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories</h2>
+ <img src="https://robynpritzker.github.io/encodingvandegrifter/logo.png" alt="Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories">
 
-
+<p>A scholarly project recovering four Gothic fairy tale manuscripts by Fanny Van de Grift Stevenson, an underacknowledged late nineteenth century American writer.</p>
 
 <div class="introduction">
   <div class="flex-container">
@@ -66,7 +65,7 @@ text-align: center;
   </div>
 </div>
 <hr />
-<p>Recovering four Gothic fairy tale manuscripts from Fanny Van de Grift Stevenson, an underacknowledged late nineteenth century American writer.</p>
+
 
  
 <span data-balloon="I'm a tooltip." data-balloon-pos="up">Robyn Pritzker, 2019. Centre for Data, Culture, and Society. University of Edinburgh.</span>
