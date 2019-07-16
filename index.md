@@ -31,19 +31,14 @@ title: Encoding the Vandegrifter
 }
 
 h2 {
+display: block;
+width: 800px;
 text-align: center;
 }
  
 </style>  
 </head>
 
-
-<div class="topnav">
-  <a href="https://robynpritzker.github.io/encodingvandegrifter/">Home</a> ||
-  <a class="active" href="https://robynpritzker.github.io/encodingvandegrifter/storiesIndex.html">Stories</a> ||
-  <a href="https://robynpritzker.github.io/encodingvandegrifter/imagesIndex.html">Manuscripts</a> ||
-  <a href="https://robynpritzker.github.io/encodingvandegrifter/aboutIndex.html">About</a>
-</div>
 
 <br/><br/><br/>
     
