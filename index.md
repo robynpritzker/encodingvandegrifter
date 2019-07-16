@@ -17,7 +17,7 @@ title: Encoding the Vandegrifter
       width: 300%;
       margin: 10px;
       text-align: center;
-      line-height: 60px;
+      line-height: 20px;
       font-size: 18px;
     }
     
