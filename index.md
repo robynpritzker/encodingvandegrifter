@@ -20,11 +20,32 @@ title: Encoding the Vandegrifter
       line-height: 60px;
       font-size: 20px;
     }
-  </style>
-  
+    
+
+.topnav {
+  display: inline-block;
+  height: 25px;
+  width: 800px;
+  font: 18px/1 Georgia, Garamond, serif;
+  text-transform: uppercase;
+}
+
+ 
+</style>  
 </head>
 
-Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories
+
+<div class="topnav">
+  <a href="https://robynpritzker.github.io/encodingvandegrifter/">Home</a> ||
+  <a class="active" href="https://robynpritzker.github.io/encodingvandegrifter/storiesIndex.html">Stories</a> ||
+  <a href="https://robynpritzker.github.io/encodingvandegrifter/imagesIndex.html">Manuscripts</a> ||
+  <a href="https://robynpritzker.github.io/encodingvandegrifter/aboutIndex.html">About</a>
+</div>
+
+<br/><br/><br/>
+    
+ 
+<h2>Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories</h2>
 
 
 
