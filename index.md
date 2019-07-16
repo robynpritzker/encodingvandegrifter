@@ -30,6 +30,9 @@ title: Encoding the Vandegrifter
   text-transform: uppercase;
 }
 
+h2 {
+text-align: center;
+}
  
 </style>  
 </head>
