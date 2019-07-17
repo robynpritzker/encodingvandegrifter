@@ -5,62 +5,20 @@ title: Encoding the Vandegrifter
 
 <head>
  
-<link rel="stylesheet" href="path/to/balloon.css">
- 
  <style>
-    .flex-container {
-      display: flex;
-      justify-content: center;
-    }
+     <link rel="stylesheet" href="{{ site.baseurl }}/balloon.min.css">
 
-    .flex-container > div {
-      width: 300%;
-      margin: 10px;
-      text-align: center;
-      line-height: 20px;
-      font-size: 18px;
-    }
-    
-
-.topnav {
-  display: inline-block;
-  height: 25px;
-  width: 800px;
-  font: 18px/1 Georgia, Garamond, serif;
-  text-transform: uppercase;
-}
-
-h2 {
-display: block;
-width: 800px;
-text-align: center;
-}
- 
 </style>  
 </head>
 
 
 <br/><br/><br/>
-    
- <img src="https://robynpritzker.github.io/encodingvandegrifter/logo.png" alt="Encoding the Vandegrifter: A Digital Edition of Fanny Van de Grift Stevenson’s Unpublished Short Stories">
+<h2>Welcome to Encoding the Vandegrifter</h2><br/>
 
 <p>A scholarly project recovering four Gothic fairy tale manuscripts by Fanny Van de Grift Stevenson, an underacknowledged late nineteenth century American writer.</p>
 
-<div class="introduction">
-  <div class="flex-container">
-    <div class="overlay">
-     <a href="{{ site.baseurl }}/storiesIndex.html"><span class="caption" style="display:block">Short Stories</span></a>
-    </div>
-    <div class="overlay">
-      <a href="{{ site.baseurl }}/imagesIndex.html"><span class="caption" style="display:block">Manuscript Images</span></a>
-    </div>
-    <div class="overlay">
-      <a href="{{ site.baseurl }}/aboutIndex.html"><span class="caption" style="display:block">About the Project</span></a>
-    </div>
-  </div>
-</div>
-<hr />
+<p>On this site you'll be able to read the stories, examine the manuscript pages, and learn more about Stevenson herself.</p>
 
 
- 
-<span data-balloon="I'm a tooltip." data-balloon-pos="up">Robyn Pritzker, 2019. Centre for Data, Culture, and Society. University of Edinburgh.</span>
+<button aria-label="Learn more!" data-balloon-pos="up">Hover</button>
+
