@@ -6,7 +6,7 @@ title: Encoding the Vandegrifter
 <head>
  
  <style>
-     <link rel="stylesheet" href="{{ site.baseurl }}/balloon.min.css">
+     <link rel="stylesheet" href="https://unpkg.com/balloon-css/balloon.min.css">
 
 </style>  
 </head>
