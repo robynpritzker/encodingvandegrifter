@@ -16,11 +16,15 @@ title: Short Stories
   
   
   .dropdown {
-     display: block
+    position: relative 
+    display: block
   font-color: black;
   text-align: center;
   font: 27px;  
   }
+  
+  .dropdown-content {
+    position: absolute
     
 </style>  
 
@@ -30,10 +34,10 @@ title: Short Stories
 <div class=“dropdown”>
 <button class=“dropbtn”>Short Stories</button>
 <div class=“dropdown-content”>
-<a href=“/borriballoo.html”>The Grand Borriballoo</a>
-<a href=““/sheep.html“>The Ravening Sheep</a>
-<a href=“/hunchback.html”>The Hunchback</a>
-<a href=“/ahchoon.html”>Ah Choon</a>
+  <a href=“{{ site.baseurl }}/borriballoo.html”>The Grand Borriballoo</a>
+  <a href=“{{ site.baseurl }}/sheep.html“>The Ravening Sheep</a>
+  <a href=“{{ site.baseurl }}/hunchback.html”>The Hunchback</a>
+  <a href=“{{ site.baseurl }}/ahchoon.html”>Ah Choon</a>
 </div>
 </div> 
 
